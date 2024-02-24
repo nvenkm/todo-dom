@@ -24,7 +24,7 @@
 }
 
 .submitButton:hover{
-    transform: rotate(360deg);
+    
     scale: 1.03;
     background-color: rgb(26, 104, 168);
 }
