@@ -1,0 +1,46 @@
+body{
+
+    background-color: rgb(199, 235, 235);
+    
+    text-align: center;
+
+}
+
+
+.input{
+    background-color: whitesmoke;
+    border: 2px solid rgb(102, 95, 95);
+    
+    border-radius: 5px;
+    padding: 5px;
+    
+    
+
+
+}
+.input:hover{
+
+    scale: 1.08;
+
+}
+
+.submitButton{
+
+   
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    border: 2px solid grey;
+    background-color: rgb(35, 124, 196);
+    transition: all;
+    transition-duration: 0.3s;
+    margin-left: 10px;
+    
+    
+}
+
+.submitButton:hover{
+    
+    scale: 1.08;
+    background-color: rgb(26, 104, 168);
+}
