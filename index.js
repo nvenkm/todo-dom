@@ -19,3 +19,5 @@ function addTodo() {
   input.value = "";
   input.focus();
 }
+
+console.log("Hello");
